@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mbcepps6356",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "sub2.html",
+    "href": "sub2.html",
+    "title": "sub2",
+    "section": "",
+    "text": "This is a callout block\n\n\n\n\ncol1\ncol2\ncol3\n\n\n\n\nvalue1\nvalue2\nvalue3\n\n\nvalue1\nvalue2\nvalue3\n\n\nvalue1\nvalue2\nvalue3\n\n\n\na simple knowledge: \\[Y = \\alpha + \\beta \\cdot  X\\] this very simple, lets do math\na simple knowledge: \\[Y = \\alpha + \\beta \\cdot  X + \\epsilon\\] this very simple, lets do math\na simple knowledge: \\[\\hat{Y} = \\alpha + \\beta \\cdot  X + \\epsilon\\frac{1}{2}\\] this very simple, lets do math\n$$\n^{a}_{i=1} =\n$$\n\\[\n\\begin{bmatrix}\n1 & 0 & 0 & 0 \\\\\n0 & 1 & 0 & 0 \\\\\n0 & 0 & 0 & 0 \\\\\n\\end{bmatrix}\n\\] home"
+  },
+  {
+    "objectID": "sub1.html",
+    "href": "sub1.html",
+    "title": "sub1",
+    "section": "",
+    "text": "topic1\n##abstract\n\nthe other thing\n\none thing\nthe second thing\n\na pic\n\nhome"
+  }
+]
